@@ -7,3 +7,5 @@ Para instalar correctamente la base de datos desde el repositorio.
 5. Compilar con IIS Express
 
 Nota: El usuario escrito en appsettings.json ya fue probado para que se pueda conectar de manera satisfactoria a la base de datos, en caso de un error preguntar.
+
+Nota: Los permisos CORS estan habilitados para el dominio localhost:3000
